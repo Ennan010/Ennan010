@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-![ciallo](assets/ciallo.gif)
+<div align="center">
+  <img src="assets/ciallo.gif" alt="ciallo">
+</div>
 
 <!--
 **Ennan010/Ennan010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
