@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<div style="float: left; margin-right: 20px;">
-  <img src="assets/ciallo.gif" alt="ciallo" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
-</div>
+![](assets/ciallo.gif)
 
 [![Personal Website](https://img.shields.io/badge/-个人主页/Homepage-FF7139?style=for-the-badge&logo=github&logoColor=white)](https://ennan010.github.io/)
 
