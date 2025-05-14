@@ -5,8 +5,6 @@
 </div>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ennan010)
-
-![](https://stats.justsong.cn/api/csdn?id=weixin_46681416)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ennan010) ![](https://stats.justsong.cn/api/csdn?id=weixin_46681416)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ennan010)
