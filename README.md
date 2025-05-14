@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![](assets/ciallo.gif)
+![hi~](assets/ciallo.gif)
+
 
 [![Personal Website](https://img.shields.io/badge/-个人主页/Homepage-FF7139?style=for-the-badge&logo=github&logoColor=white)](https://ennan010.github.io/)
 
