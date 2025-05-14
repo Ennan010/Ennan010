@@ -3,6 +3,7 @@
 <div align="center">
   <img src="assets/ciallo.gif" alt="ciallo">
 </div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ennan010)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ennan010)
