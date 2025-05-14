@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![hi~](assets/ciallo.gif)
+[![hi~](assets/ciallo.gif)](https://github.com/Ennan010/Ennan010/blob/main/assets/ciallo.gif)
 
 
 [![Personal Website](https://img.shields.io/badge/-个人主页/Homepage-FF7139?style=for-the-badge&logo=github&logoColor=white)](https://ennan010.github.io/)
