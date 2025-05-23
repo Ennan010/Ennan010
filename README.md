@@ -7,4 +7,4 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ennan010)
 
-[![hi~](assets/ciallo.gif)](https://github.com/Ennan010/Ennan010/blob/main/assets/ciallo.gif)
+[![hi~](assets/doro.gif)](https://github.com/Ennan010/Ennan010/blob/main/assets/doro.gif)
