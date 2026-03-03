@@ -14,12 +14,11 @@
 ## 🧑‍💻 关于我
 
 - 🔭 目前专注于前端开发与计算机视觉方向，研究内容包括裂缝检测等
-- 🌱 正在学习 Vue、TypeScript、Mamba 模型
+- 🌱 正在学习 React、Vue、TypeScript、Mamba 模型
 - 💬 欢迎交流技术与想法
 - 📫 联系方式：
   - len_010@qq.com（recommend）
   - leen010410@gmail.com
-
 
 ---
 
