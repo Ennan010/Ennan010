@@ -64,6 +64,6 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="assets/miku.gif" width="200" alt="hi~" />
-</p>
+</p> -->
