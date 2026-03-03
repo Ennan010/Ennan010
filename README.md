@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋，我是 Ennan</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ennan010&show_icons=true&theme=radical" alt="Ennan010's GitHub stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Ennan010&show_icons=true&theme=radical" alt="Ennan010's GitHub stats" /> -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ennan010&show_icons=true&theme=radical&cache_seconds=1800" alt="Ennan010's GitHub stats" />
 </p>
 
 <p align="center">
@@ -37,7 +38,8 @@
 ## 📈 数据与统计
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ennan010&layout=compact&theme=radical" alt="Top Langs" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ennan010&layout=compact&theme=radical" alt="Top Langs" /> -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ennan010&layout=compact&theme=radical&cache_seconds=1800" alt="Top Langs" />
 </p>
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ennan010&theme=github-compact" alt="activity graph" />
