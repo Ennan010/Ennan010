@@ -39,7 +39,7 @@
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ennan010&layout=compact&theme=radical" alt="Top Langs" /> -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ennan010&layout=compact&theme=radical&cache_seconds=1800" alt="Top Langs" />
+  <img src="https://readme-stats-xi-ten.vercel.app/api/top-langs/?username=Ennan010&layout=compact&theme=radical&cache_seconds=86400" alt="Top Langs" />
 </p>
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ennan010&theme=github-compact" alt="activity graph" />
